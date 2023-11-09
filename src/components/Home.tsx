@@ -1,5 +1,5 @@
 import { Container, Row } from "react-bootstrap";
-import CardSpace from "./CardSpace";
+import CardSpace from "./Card";
 import { useEffect, useState } from "react";
 
 interface Reservation {
